@@ -10,7 +10,7 @@
 <!-- Header with Logo and Navigation -->
 <header>
   <a href="index.html">
-    <img src="qudus-media-tech.png" alt="Qudus-Media-Tech-Logo" width="200">
+    <img src="qudus-media-tech.png" alt="Qudus Media Tech Logo" width="200">
   </a>
   <h1>Qudus-Media-Tech</h1>
   <nav>
