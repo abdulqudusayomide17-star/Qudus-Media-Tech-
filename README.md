@@ -10,7 +10,7 @@
 <!-- Header with Logo and Navigation -->
 <header>
   <a href="index.html">
-    <img src="qudus-media-tech.png" alt="Qudus-Media-Tech Logo" width="300">
+    <img src="qudus-media-tech.png" alt="Qudus Media Tech Logo" width="200">
   </a>
   <h1>Qudus-Media-Tech</h1>
   <nav>
@@ -60,19 +60,9 @@
   <!-- Contact Section -->
   <section id="contact">
     <h2>Contact Us</h2>
-    
-    <!-- Email -->
-    <p>Email: 
-      <a href="mailto:abdulqudusayomide17@gmail.com">abdulqudusayomide17@gmail.com</a>
-    </p>
-    
-    <!-- Phone numbers -->
-    <p>Phone (International): 
-      <a href="tel:+2347045581103">+234 704 558 1103</a>
-    </p>
-    <p>Phone (Local): 
-      <a href="tel:07045581103">070 455 81103</a>
-    </p>
+    <p>Email: <a href="mailto:abdulqudusayomide17@gmail.com">abdulqudusayomide17@gmail.com</a></p>
+    <p>Phone (International): <a href="tel:+2347045581103">+234 704 558 1103</a></p>
+    <p>Phone (Local): <a href="tel:07045581103">070 455 81103</a></p>
   </section>
 </main>
 
